@@ -1,6 +1,6 @@
 # Kedai Kopi Karsa
 
-Link GitHub Pages: https://github.com/arinafazal/kedai_kopi.git
+Link GitHub Pages: https://arinafazal.github.io/kedai_kopi/
 
 Website kedai kopi sederhana pakai HTML dan CSS, terdiri dari 3 halaman (beranda, menu, pemesanan).
 
